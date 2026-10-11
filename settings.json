@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "kaito",
   "bot-account": {
-    "username": "BeatAfk",
+    "username": "kaito",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "PublicServer5.aternos.me",
-    "port": 56754,
+    "ip": "OneBlock119S.aternos.me",
+    "port": 58007,
     "version": "1.20.1",
     "try-creative": false
   },
@@ -19,7 +19,7 @@
   },
   "utils": {
     "auto-auth": {
-      "enabled": true,
+      "enabled": false,
       "password": "beat22"
     },
     "anti-afk": {
